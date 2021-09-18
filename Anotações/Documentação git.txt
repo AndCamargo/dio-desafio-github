@@ -1,0 +1,2 @@
+Documentação git para consulta disponivel em:
+https://git-scm.com/docs
